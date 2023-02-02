@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+We are Rochester High School's CS Club!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+We are a group of curious and devoted CS enthusiasts who work on building new projects every week!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This site's source code can be found [here][source-code]
+
+This website is still in development and maybe changed to a Reactjs website as Zayn learns more about it.
+
+Have a great day!
 
 
-[jekyll-organization]: https://github.com/jekyll
+[source-code]: https://github.com/RHS-CS-Club/rhs-cs-club.github.io 
